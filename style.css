@@ -1,12 +1,51 @@
 body {
+  background-color: orange;
   font-family: "Fredoka", Arial, sans-serif;
+  color: #3b2f2f;
+  text-align: center;
+}
 
+h1 {
+  margin-top: 30px;
+  font-size: 3rem;
+}
 
+h2 {
+  margin-top: 30px;
+}
 
+p {
+  font-size: 1.1rem;
+}
 
+.sun-image {
+  width: 180px;
+  margin: 15px;
+}
 
+.menu-section {
+  position: relative;
+  background-color: #fff3d6;
+  padding: 25px;
+  margin: 30px auto;
+  border-radius: 20px;
+  max-width: 800px;
+}
 
+.cream-image {
+  width: 120px;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
 
+.ball-image {
+  width: 150px;
+  margin: 15px;
+}
 
-  
+ul {
+  display: inline-block;
+  text-align: left;
+  font-size: 1.1rem;
 }
